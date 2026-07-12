@@ -1,0 +1,24 @@
+{
+	"name": "settings-ide-v1---color-theme",
+	"displayName": "Settings IDE v1 - Color Theme",
+	"description": "Setting IDE v1 - Color Theme - VS Code",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.125.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Settings IDE v1",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Settings IDE v1-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"url": "https://github.com/filippochinni/vs-code-settings-ide-v1-color-theme.git"
+	}
+}
