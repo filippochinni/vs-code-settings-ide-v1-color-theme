@@ -57,3 +57,8 @@ The theme uses VS Code's `Dark 2026` as the IDE theme, while the most important 
 ## Check out more from the Setting IDE series
 
 -
+
+
+
+
+<!-- <a href="https://www.flaticon.com/free-icons/source-code" title="source code icons">Source code icons created by Prosymbols Premium - Flaticon</a> -->

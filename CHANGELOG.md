@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release
 
-[unreleased]:
-[1.0.0]:
+
+[unreleased]: https://github.com/filippochinni/vs-code-settings-ide-v1-color-theme/commit/HEAD
+[1.0.0]: https://github.com/filippochinni/vs-code-settings-ide-v1-color-theme/commit/ee5130d
 [@filippochinni]: https://github.com/filippochinni
