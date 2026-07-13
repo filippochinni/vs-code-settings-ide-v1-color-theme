@@ -11,6 +11,7 @@ The theme uses VS Code's `Dark 2026` as the IDE theme, while the most important 
 ### Theme Color Palette Showcase
 
 ![Theme Colors Showcase](./README_res/Theme_Colors_Showcase.png)
+![Token Types Colors Showcase](./README_res/Token_Types_Colors_Showcase.png)
 
 ### Main Colors Summary
 
@@ -36,28 +37,47 @@ The theme uses VS Code's `Dark 2026` as the IDE theme, while the most important 
 
 **Python:**
 
+![Syntax Highlighting Showcase - Python](./README_res/syntax_showcase/Python_converted.gif)
+
 **Java:**
+
+![Syntax Highlighting Showcase - Java](./README_res/syntax_showcase/Java_converted.gif)
+
+**C/C++:**
+
+![Syntax Highlighting Showcase - C/C++](./README_res/syntax_showcase/C_converted.gif)
 
 **JavaScript:**
 
+![Syntax Highlighting Showcase - JavaScript](./README_res/syntax_showcase/Javascript_converted.gif)
+
 **HTML:**
+
+![Syntax Highlighting Showcase - HTML](./README_res/syntax_showcase/HTML_converted.gif)
 
 **CSS:**
 
+![Syntax Highlighting Showcase - CSS](./README_res/syntax_showcase/CSS_converted.gif)
+
 **JSON:**
+
+![Syntax Highlighting Showcase - JSON](./README_res/syntax_showcase/JSON_converted.gif)
 
 **XML:**
 
-**Regex:**
+![Syntax Highlighting Showcase - XML](./README_res/syntax_showcase/XML_converted.gif)
 
 **Markdown:**
 
+![Syntax Highlighting Showcase - Markdown](./README_res/syntax_showcase/Markdown_converted.gif)
 
 
-## Check out more from the Setting IDE series
 
--
+## Check out more from the Setting IDE Series
 
+- **Settings IDE v1 - Keymap** --> [GitHub](https://github.com/filippochinni/vs-code-settings-ide-v1-keymap) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ide-v1---keymap)
+
+My Extensions Publisher Profile: [Marketplace Publishers](https://marketplace.visualstudio.com/publishers/filippochinni)
 
 
 

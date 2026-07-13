@@ -1,9 +1,9 @@
 {
-	"name": "settings-ide-v1---color-theme",
-	"displayName": "Settings IDE v1 - Color Theme",
+	"name": "settings-ide-v1--color-theme",
+	"displayName": "Settings IDE v1 - ColorTheme",
 	"description": "Setting IDE v1 - Color Theme - VS Code",
-	"publisher": "",
-	"version": "1.0.0",
+	"publisher": "filippochinni",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.125.0"
 	},
@@ -15,7 +15,7 @@
 			{
 				"label": "Settings IDE v1",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Settings IDE v1-color-theme.json"
+				"path": "./themes/settings_ide_v1-color-theme.json"
 			}
 		]
 	},
